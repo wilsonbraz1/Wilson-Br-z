@@ -1,4 +1,4 @@
-#Olá eu só Wilson Bráz
+# Olá 👋👋👋 eu sou Wilson Brás!
 <div align="center">
   <a href="https://github.com/wilsonbraz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsonbraz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
